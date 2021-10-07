@@ -1,2 +1,0 @@
-﻿Identifier,Model,UserID,Country,ProvinceState,City,Floor Area [ft2],Style,Number of Floors,Age of Home [years],Number of Occupants,installedCoolStages,installedHeatStages,allowCompWithAux,Has Electric,Has a Heat Pump,Auxilliary Heat Fuel Type,Number of Remote Sensors,filename
-0000ExampleDataFile000000000000000000000,ecobee3,1111ExampleUserID11111111111111111111111,CA,QC,Montreal,2500,Detached,3,10,5,1,1,FALSE,FALSE,FALSE,Gas,10,0000ExampleDataFile000000000000000000000.csv
